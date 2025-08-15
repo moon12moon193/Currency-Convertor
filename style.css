@@ -1,0 +1,102 @@
+body{
+    background-color: black;
+    color: white;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+#msg{
+    color: yellow;
+    margin-top: 30px;
+}
+#para1{
+    color: yellow;
+}
+#para2{
+    color: yellow;
+    font-weight: bold;
+}
+#para3{
+    color: yellow;
+    font-weight: bold;
+}
+h2{
+    color: aqua;
+}
+#inpputtext{
+    height: 40px;
+    width: 240px;
+    /* padding: 2rem; */
+}
+#btn1{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(96, 45, 8);
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+.currencycntor{
+    height: 500px;
+    width: 400px;
+    /* border: 2px solid white; */
+    /* padding: 20px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(3, 41, 57);
+}
+.fullconvertor{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.convertor{
+    display: flex;
+    justify-content: space-evenly;
+}
+#img1{
+    height: 45px;
+    width: 45px;
+}
+#img2{
+    height: 45px;
+    width: 45px;
+
+}
+ #imgselect1{
+    
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+    gap: 3px;
+ }
+ #imgselect2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    gap: 3px;
+    
+ }
+    
+ 
+ #from{
+    margin-right: 25px;
+ }
+ #icon{
+    margin-top: 60px;
+    margin-right: 20px;
+    font-size: 20px;
+    color: rgba(255, 255, 0, 0.941);
+    font-weight: bold;
+ }
