@@ -1,5 +1,5 @@
 A simple and efficient web-based currency converter that allows users to quickly convert amounts between different currencies in real-time.
- Features
+ *Features*
 - Convert between multiple world currencies.
 - Real-time exchange rates.
 - Simple, clean, and responsive UI.
